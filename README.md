@@ -31,7 +31,7 @@ Utilizing Python and SQLAlchemy, this project undertook a climate analysis and d
 * A query is designed to calculate the total number of stations, and 9 stations found. To find the most active station list, and observation counts is sorted in descending order. Station `USC00519281` has the highest number of observations.
 
 * A query is created to retrieve the last 12 months of temperature observation data (TOBS) and filter by the station with the highest number of observations. The Plot for the results as a histogram with `bins=12` were created and it looks as follows. 
-
+![station_Plot](Images/station_Plot.png)
 - - -
 
 # Step 2
