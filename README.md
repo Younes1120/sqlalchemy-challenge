@@ -1,5 +1,5 @@
 # sqlalchemy-challenge
-# SQLAlchemy Homework - Surfs Up!
+
 
 
 The Hawaiian Islands boast a rich diversity, ranging from serene sandy beaches with turquoise waters and swaying palm trees to the rugged, volcanic terrain that continues to shape the earth. This diversity extends beyond the landscape to include a vibrant array of flora, fauna, and people, representing a colorful mix of various races and ethnicities, embodying the American ethos of collaboration, immigration, and coexistence.
